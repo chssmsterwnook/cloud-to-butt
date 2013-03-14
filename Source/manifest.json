@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
-	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"name": "iPhone to speak-n-spell",
+	"version": "1.1",
+	"description": "Replaces the text 'iPhone' with 'speak-n-spell'. Based off Cloud to Butt by panicsteve",
 	"content_scripts": 
 	[
 		{
