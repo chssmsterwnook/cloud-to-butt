@@ -1,32 +1,11 @@
-cloud-to-butt
+iPhone to speak-n-spell
 =============
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Chrome extension that replaces occurrences of 'iPhone' with 'speak-n-spell'
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
-
-Screenshot Gallery
-------------------
-
-http://www.flickr.com/groups/cloud-to-butt/
+[Direct download of crx file](http://1.bp.blogspot.com/-jyfj1KmnVLk/T0hrag8UDDI/AAAAAAAALAA/3rHJfFg6sN4/s1600/soon_meme_collection_640_14.jpg)
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
-
-
-Opera Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+In Chrome, choose Window > Extensions.  Drag iphonetosns.crx into the page that appears.
