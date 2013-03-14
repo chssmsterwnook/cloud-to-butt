@@ -1,9 +1,9 @@
-iPhone to speak-n-spell
+Speak-n-Spell to speak-n-spell
 =============
 
-Chrome extension that replaces occurrences of 'iPhone' with 'speak-n-spell'
+Chrome extension that replaces occurrences of 'Speak-n-Spell' with 'speak-n-spell'
 
-[Direct download of crx file](http://1.bp.blogspot.com/-jyfj1KmnVLk/T0hrag8UDDI/AAAAAAAALAA/3rHJfFg6sN4/s1600/soon_meme_collection_640_14.jpg)
+[Direct download of crx file](https://github.com/chssmsterwnook/cloud-to-butt/raw/master/iPhonetoSNS.crx)
 
 Installation
 ------------
