@@ -8,4 +8,4 @@ Chrome extension that replaces occurrences of 'Speak-n-Spell' with 'speak-n-spel
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag iphonetosns.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag iPhonetoSNS.crx into the page that appears.
